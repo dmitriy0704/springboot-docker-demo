@@ -1,1 +1,1 @@
-# Проиложения Spring Boot с оптимальной конфигурацией Dockerfile
+# Проиложение Spring Boot с оптимальной конфигурацией Dockerfile
