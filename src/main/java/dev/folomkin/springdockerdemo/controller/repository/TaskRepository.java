@@ -1,4 +1,7 @@
 package dev.folomkin.springdockerdemo.controller.repository;
 
-public interface TaskRepository {
+import dev.folomkin.springdockerdemo.controller.entity.Task;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface TaskRepository extends JpaRepository<Task, Long> {
 }
